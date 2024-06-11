@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArumPeter
-- 👀 I’m interested in software testing and telecommunication engineering
-- 🌱 I’m currently learning on HTML5,CSS3,bootstrap,git and hosting static websites.
+- 👀 I work on software testing: functional & non-functional. 
+- 🌱 I’m currently working on mobile automation.
 - 💞️ I’m looking to collaborate on any projects relating to software testing
 - 📫 How to reach me ...Email me at peterarum30@gmail.com
 
